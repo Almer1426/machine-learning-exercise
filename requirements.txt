@@ -1,0 +1,6 @@
+# --- Core AI/Data Science ---
+numpy
+pandas
+matplotlib
+ipykernel
+seaborn
